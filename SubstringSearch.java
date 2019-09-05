@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class String1
+public class SubstringSearch
 {
 	public static void main(String args[])
 	{
@@ -15,7 +15,6 @@ public class String1
 		{
 			if(s1.charAt(i)==s2.charAt(0))
 			{
-				//System.out.println("*******test**********");
 				String temp=s1;
 				int c=0;
 				if(s2.length()>1)
