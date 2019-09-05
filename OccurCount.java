@@ -36,8 +36,7 @@ public class OccurCount
 			}
 			
 		}
-		//for(String retval:dsa)
-			//System.out.println(retval);
+		
 		
 		int count[]= new int[dsa.length];
 		
